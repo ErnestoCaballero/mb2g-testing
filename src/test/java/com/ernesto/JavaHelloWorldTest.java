@@ -8,6 +8,6 @@ public class JavaHelloWorldTest {
 
     @Test
     public void getHello() {
-        
+
     }
 }
