@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6b70ad6-aef8-420a-9ed6-73833f63e6c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ernesto/JUnit5FauxTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -55,7 +55,23 @@
       <recent name="com.ernesto" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.JUnit5FauxTest.someTestforJUNit5">
+    <configuration name="JUnit5FauxTest.someTestforJUNit5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mb2g-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ernesto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ernesto" />
+      <option name="MAIN_CLASS_NAME" value="com.ernesto.JUnit5FauxTest" />
+      <option name="METHOD_NAME" value="someTestforJUNit5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JavaHelloWorldTest.getHello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mb2g-testing" />
       <extension name="coverage">
@@ -74,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JUnit5FauxTest.someTestforJUNit5" />
         <item itemvalue="JUnit.JavaHelloWorldTest.getHello" />
       </list>
     </recent_temporary>
