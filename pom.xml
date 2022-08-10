@@ -16,6 +16,7 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <junit.version>5.9.0</junit.version>
         <skipTests>true</skipTests>
+        <skipITs>true</skipITs>
     </properties>
 
     <dependencies>
